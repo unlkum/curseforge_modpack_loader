@@ -19,7 +19,9 @@ A fast, dependency‑free Python tool that downloads complete CurseForge modpack
 ### Download from a CurseForge URL
 ```bash
 python cf_downloader.py https://www.curseforge.com/minecraft/modpacks/beyond-depth ./BeyondDepth
+```
 
 ### Download from a local exported ZIP
 ```bash
 python cf_downloader.py "Beyond Depth-Ver12.7.0.zip" ./BeyondDepth
+```
